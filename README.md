@@ -14,8 +14,8 @@ An additional [table]() contains detailed variable descriptions, which includes 
 
 
 ## Documentation
-[Codebook & Methodology]()
-[License]()
+[Codebook & Methodology]()  
+[License](https://github.com/vera-institute/incarceration-inequality-public/blob/main/License.pdf)
 
 ## Endmatter
 If you have questions, please contact Vera at iip@vera.org or V Thompkins by mail at 34 35th Street, Suite 4-2A Brooklyn, NY 11232.
