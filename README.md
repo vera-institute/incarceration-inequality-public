@@ -8,14 +8,14 @@ Building on Vera’s [existing research and data projects](https://www.vera.org/
 The team’s priorities include conducting research and constructing datasets that describe the connections between incarceration and economic outcomes, developing an online visualization tool that can be used by wide-ranging audiences to elucidate these connections, and designing materials to increase awareness and inform policy responses.
 
 ## Data
-The dataset is split into a series of tables that are organized into two high-level folders containing all state-level and all county-level tables. From there, the data is split into smaller tables based around thematic categories. Each table contains the necessary variables for joining across all tables (year and county or state fips code). 
+The dataset is split into a series of tables that are organized into two high-level folders containing all [state-level](https://github.com/vera-institute/incarceration-inequality-public/tree/main/state) and all [county-level](https://github.com/vera-institute/incarceration-inequality-public/tree/main/county) tables. From there, the data is split into smaller tables based around thematic categories. Each table contains the necessary variables for joining across all tables (year and county or year and state fips code). 
 
-An additional [table]() contains detailed variable descriptions, which includes the variable definition, data source, time period of data availability, and other summary statistics.
+An additional table contains detailed [variable descriptions](https://github.com/vera-institute/incarceration-inequality-public/tree/main/variable_descriptions), which includes the variable definition, data source, time period of data availability, and other summary statistics.
 
 
 ## Documentation
-[Codebook & Methodology]()
-[License]()
+[Codebook & Methodology](https://github.com/vera-institute/incarceration-inequality-public/blob/main/Codebook%20&%20Methodology.pdf)  
+[License](https://github.com/vera-institute/incarceration-inequality-public/blob/main/License.pdf)
 
 ## Endmatter
 If you have questions, please contact Vera at iip@vera.org or V Thompkins by mail at 34 35th Street, Suite 4-2A Brooklyn, NY 11232.
